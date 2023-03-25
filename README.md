@@ -1,8 +1,11 @@
 <!--# Large-scale Self-supervised Pre-training Across Tasks, Languages, and Modalities-->
 ## [aka.ms/nlpagi](https://aka.ms/nlpagi)
+```C
+/*
 # Hiring
 We are hiring at all levels (including FTE researchers and interns)! If you are interested in working with us on Foundation Models (aka large-scale pre-trained models) and AGI, NLP, MT, Speech, Document AI and Multimodal AI, please send your resume to <a href="mailto:fuwei@microsoft.com" class="x-hidden-focus">fuwei@microsoft.com</a>.
-
+*/
+```
 ## AGI Fundamentals
 ### TorchScale - Transformers at (any) Scale ([repo](https://github.com/microsoft/torchscale))
 
